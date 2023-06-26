@@ -3,7 +3,7 @@ entries:
   netbox:
   - apiVersion: v2
     appVersion: v3.4.4
-    created: "2023-06-26T11:59:45.045987591+02:00"
+    created: "2023-06-26T12:48:10.779895687+02:00"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -22,6 +22,6 @@ entries:
     name: netbox
     type: application
     urls:
-    - https://github.com/MichaelSoegaard/netbox-helmchart/charts/netbox-1.0.0.tgz
+    - https://michaelsoegaard.github.io/netbox-helmchart/charts/netbox-1.0.0.tgz
     version: 1.0.0
-generated: "2023-06-26T11:59:45.036705693+02:00"
+generated: "2023-06-26T12:48:10.770888811+02:00"
