@@ -22,6 +22,6 @@ entries:
     name: netbox
     type: application
     urls:
-    - https://michaelsoegaard.github.io/netbox-helmchart/charts/netbox-1.0.0.tgz
+    - https://michaelsoegaard.github.io/netbox-helmchart/charts/netbox-1.0.1.tgz
     version: 1.0.0
 generated: "2023-06-26T12:48:10.770888811+02:00"
